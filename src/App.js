@@ -4,7 +4,7 @@ import Header from './core/components/Header/Header'
 function App() {
   return (
     <div className={classes.App}>
-     <Header> Welcome to First App</Header>
+     <Header> Welcome to First App of Shruti</Header>
     <Authentication />
     </div>
   );
